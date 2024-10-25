@@ -1,5 +1,17 @@
-Implementation of Quoridor game with some simple bot AI.
+# Quoridor
+  Implementation of Quoridor game with some simple AI bots.
 
-To run - "python quoridor.py"
+## Before run
 
-Pygame is neaded
+Install neaded packages.
+
+```bash
+sudo apt install python3
+pip install -r requirements.txt
+```
+
+## Run game
+   
+   ```bash
+   python3 quoridor.py
+   ```
